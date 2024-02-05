@@ -14,7 +14,15 @@ The following **required** functionality is completed:
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
  
- 
+
+ <div>
+    <a href="https://www.loom.com/share/00fcd5feb2894fbbae19d54ea5f86d3c">
+      <p>Notifications | Loom - 5 February 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/00fcd5feb2894fbbae19d54ea5f86d3c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/00fcd5feb2894fbbae19d54ea5f86d3c-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
